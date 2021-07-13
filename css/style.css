@@ -23,3 +23,11 @@
 section {
   padding-top: 5rem;
 }
+
+.nav-item:hover {
+  font-weight: 500;
+}
+
+.navbar-brand {
+  font-family: "Viga", sans-serif;
+}
