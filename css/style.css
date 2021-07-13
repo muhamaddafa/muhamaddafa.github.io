@@ -1,0 +1,25 @@
+/* Jumbotron */
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+.nama {
+  font-family: "Poppins", sans-serif;
+  padding-top: 1rem;
+}
+
+.keterangan {
+  font-family: "Poppins", sans-serif;
+}
+/* Akhir Jumbotron */
+
+/* Gallery */
+#projects {
+  background-color: #e2edff;
+}
+/* Akhir Gallery */
+
+section {
+  padding-top: 5rem;
+}
